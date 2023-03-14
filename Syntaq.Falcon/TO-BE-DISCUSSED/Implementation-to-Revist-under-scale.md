@@ -1,0 +1,1 @@
+Zip function for Download All Method (Files)

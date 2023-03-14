@@ -1,0 +1,1 @@
+ALl of our support articles for the application are published at [Zendesk](https://syntaq.zendesk.com/access/unauthenticated?return_to=https%3A%2F%2Fsyntaq.zendesk.com%2Fknowledge%2Farticles%2F9319644059661%2Fen-us%3Fbrand_id%3D360000972991), access can be granted via the admin@syntaq.com username. 
